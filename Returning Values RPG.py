@@ -9,4 +9,3 @@ def hit_points(seconds):
 
 hours, minutes, seconds = hit_points(4000)
 print(hours, minutes, seconds)
-
