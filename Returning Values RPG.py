@@ -1,5 +1,4 @@
-# Use the get_seconds function to work out the amount of seconds in 2 hours and 30 minutes..
-# then add this number to the amount of seconds in 45 minutes and 15 seconds.
+#Assumed damage is 1d20, DnD based combat system.
 
 def hit_points(hp):
     con = 10
@@ -14,3 +13,5 @@ def hit_points(hp):
     print(max_hp)
     print(hit_points)
     print(hp)
+
+    #1d20 Dice Roll could be an awesome idea.
